@@ -20,12 +20,6 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 📌 *Analyzed sales trends & customer behavior to identify top-performing products.*  
 **Tech Stack**: SQL | Power BI | Excel  
 
-### 📈 [Financial Data Transformation](link-to-repo)  
-📌 *Automated data extraction and processing from Bloomberg OMS AIM.*  
-**Tech Stack**: SQL | Python | Jira  
-
-*(More projects here...)*  
-
 ---
 
 ## 💼 Work Experience  
